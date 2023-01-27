@@ -1,4 +1,4 @@
-# 👋 <--- That's Me! Hi There! I'm Antony! 👋
+# <--- That's Me! 👋 Hey There -I'm Antony!
 ## 📔 About Me
 - 🖥 Full-Stack Software Developer
 - 💼 VP Operations at <a href="https://huckleberry.com/"><img alt="Huckleberry" src="https://img.shields.io/badge/Huckleberry-802882?style=flat-square&logo=honey&logoColor=white" /></a>
