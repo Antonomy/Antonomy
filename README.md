@@ -33,6 +33,6 @@ Products: <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="League
 <p>
 <a href="https://github.com/Antonomy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/antonyyu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:antonyyu@gmail.com" target="_blank"><img alt="Email Me" src="https://img.shields.io/badge/Email%20me-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:hello@antonyyu.com" target="_blank"><img alt="Email Me" src="https://img.shields.io/badge/Email%20me-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://calendly.com/antonyyu" target="_blank"><img alt="Book Time on My Calendar" src="https://img.shields.io/badge/Book%20Time%20with%20me-4285F4.svg?&style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 </p>
