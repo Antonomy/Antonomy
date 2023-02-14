@@ -36,6 +36,6 @@ Products: <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="League
 <a href="https://calendly.com/antonyyu" target="_blank"><img alt="Book Time on My Calendar" src="https://img.shields.io/badge/Website-45b8d8.svg?&style=for-the-badge&logo=react&logoColor=white" /></a>
 
 <a href="mailto:hello@antonyyu.com" target="_blank"><img alt="Email Me" src="https://img.shields.io/badge/Email%20me-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://calendly.com/antonyyu" target="_blank"><img alt="Book Time on My Calendar" src="https://img.shields.io/badge/Book%20Time%20with%20me-4285F4.svg?&style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+<a href="https://antonyyu.com" target="_blank"><img alt="Book Time on My Calendar" src="https://img.shields.io/badge/Book%20Time%20with%20me-4285F4.svg?&style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 
 </p>
