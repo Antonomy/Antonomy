@@ -4,7 +4,7 @@
 - 💼 VP Operations at <a href="https://huckleberry.com/"><img alt="Huckleberry" src="https://img.shields.io/badge/Huckleberry-802882?style=flat-square&logo=honey&logoColor=white" /></a>
 - 🎓 Undergrad | University of California, San Diego
 - 🎓 MBA |  California State University, Los Angeles
-- 👨‍💻 Full Stack Engineering | General Assembly
+- 👨‍💻 Software Engineering | General Assembly
 
 Previous Work: <a href="https://www.riotgames.com/en"><img alt="Riot Games" src="https://img.shields.io/badge/Riot%20Games%20Alum-D32936?style=flat-square&logo=riotgames&logoColor=white"  /></a> <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="Tencent" src="https://img.shields.io/badge/Tencent%20Alum-1572B6?style=flat-square&logo=tencentqq&logoColor=white" /></a>
 
@@ -21,13 +21,7 @@ Products: <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="League
 <img alt="Replit" src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" /> <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-151515?style=flat-square&logo=codesandbox&logoColor=white" /> <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white" />
 
 ## ⬆ What I'm Up To 
-- 🔨 Looking for opportunities to collaborate!
-
-- 🎯 In the near future, I plan to dive deeper into PostgreSQL and Next.js.
-
-- 👯 I’m looking to collaborate on anything fun!
-	
-- 🤞 One day I hope to live on a farm.
+- 🔨 I'm learning Ruby on Rails
 
 ## 📫 How To Reach Me
 <p>
