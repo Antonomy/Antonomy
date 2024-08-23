@@ -1,14 +1,14 @@
 # <--- That's Me! 👋 Hey There -I'm Antony!
 ## 📔 About Me
 - 🖥 Full-Stack Software Developer at <a href="https://paychex.com/"><img alt="Paychex" src="https://img.shields.io/badge/Paychex-004B8D?style=flat-square&logo=paychex&logoColor=white" /></a>
-- 💼 VP Operations at <a href="https://huckleberry.com/"><img alt="Huckleberry" src="https://img.shields.io/badge/Huckleberry-802882?style=flat-square&logo=honey&logoColor=white" /></a>
+- 💼 VP Operations at <a href="https://huckleberry.com/"><img alt="Huckleberry" src="https://img.shields.io/badge/Huckleberry-802882?style=flat-square&logo=honey&logoColor=white" /></a> <i>acquired by</i> <img alt="Paychex" src="https://img.shields.io/badge/Paychex-004B8D?style=flat-square&logo=paychex&logoColor=white" /></a>
 - 🎓 Undergrad | University of California, San Diego
 - 🎓 MBA |  California State University, Los Angeles
 - 👨‍💻 Software Engineering | General Assembly
 
 Previous Work: <a href="https://www.riotgames.com/en"><img alt="Riot Games" src="https://img.shields.io/badge/Riot%20Games%20Alum-D32936?style=flat-square&logo=riotgames&logoColor=white"  /></a> <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="Tencent" src="https://img.shields.io/badge/Tencent%20Alum-1572B6?style=flat-square&logo=tencentqq&logoColor=white" /></a>
 
-Products: <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="League of Legends" src="https://img.shields.io/badge/League%20of%20Legends-D32936?style=flat-square&logo=lospec&logoColor=white" /></a> <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="PUBG Mobile" src="https://img.shields.io/badge/PUBG%20Mobile-FEAB02?style=flat-square&logo=pubg&logoColor=white" /></a>
+Products: <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="League of Legends" src="https://img.shields.io/badge/League%20of%20Legends-D32936?style=flat-square&logo=lospec&logoColor=white" /></a> <a href="https://www.pubgmobile.com/en-US/home.shtml"><img alt="PUBG Mobile" src="https://img.shields.io/badge/PUBG%20Mobile-FEAB02?style=flat-square&logo=tencentqq&logoColor=white" /></a>
 
 ## 🛠 Technologies I'm Most Comfortable With
 
