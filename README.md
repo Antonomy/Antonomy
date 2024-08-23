@@ -1,6 +1,6 @@
 # <--- That's Me! 👋 Hey There -I'm Antony!
 ## 📔 About Me
-- 🖥 Full-Stack Software Developer
+- 🖥 Full-Stack Software Developer at <a href="https://paychex.com/"><img alt="Paychex" src="https://img.shields.io/badge/Paychex-004B8D?style=flat-square&logo=paychex&logoColor=white" /></a>
 - 💼 VP Operations at <a href="https://huckleberry.com/"><img alt="Huckleberry" src="https://img.shields.io/badge/Huckleberry-802882?style=flat-square&logo=honey&logoColor=white" /></a>
 - 🎓 Undergrad | University of California, San Diego
 - 🎓 MBA |  California State University, Los Angeles
